@@ -7,9 +7,9 @@ I completed two courses:
   - HTML/CSS
   - JavaScript
 
-Now I'm consolidating my acquired skills, and in the near future I plan to learn one of the JavaScript frameworks
+Now I'm consolidating my acquired skills, training in markup and JS and learning React on my own
 
-It would be great to participate in an open source project or do some remote work
+And feel excited about it!
 
 My e-mail: oleg.it.workbox@gmail.com
 
